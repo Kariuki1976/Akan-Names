@@ -4,7 +4,7 @@ function submitForm(e) {
     let slim = document.getElementById('male')
     let slimm = document.getElementById('female')
 
-    let nameManu = document.getElementById('here')
+    let nameManu = document.getElementById('your')
 
 
 
@@ -34,11 +34,3 @@ function submitForm(e) {
     }
 
 }
-
-// function clearData() {
-
-
-
-//     let dateEl = new Date(document.getElementById('date').value == null)
-
-// }
