@@ -10,6 +10,55 @@
 
 <body>
 
+    <div class="container pt-5 ">
+        <div class="row-gen row ">
+            <div class="col">
+                <div class="card-2 card">
+                    <div class="size container">
+                        <h5 class="pt-3">Fill in the fields below to generate an Akan name</h5>
+                        <form class="pt-3" name="this-form">
+                            <input id="date" type="datetime-local" class="form-control">
+
+                            <div class="pt-3">
+                                <input class=" form-check-input" type="radio" id="male" name="gender" value="Male"> male
+                                <input class="form-check-input" type="radio" id="female" name="gender" value="Female"> female
+
+                            </div>
+
+                            <button class="mt-3 btn btn-warning text-white" id="submit" onclick="getData()"><i class="fa-solid fa-circle-plus"></i> Get name</button>
+                            <button class="mt-3 mx-3 btn btn-danger" id="cancel" onclick="clearData()"><i class="fa-regular fa-trash-can"></i> Clear fields</button>
+
+
+
+
+                        </form>
+
+                        <div id="card-3" class="contianer">
+                            <div class=" mt-5  card-3 card">
+                                <div class=" cardi card-body">
+                                    <p id="here">your given name will appear here</p>
+
+                                </div>
+
+                            </div>
+
+                            <button onclick="window.location.href='index.html'" class="home-b mt-3 mx-3 btn btn-success" id="home"><i class="fa-solid fa-house"></i> Go to Home</button>
+
+
+                        </div>
+
+
+                    </div>
+
+
+
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
 
 </body>
 
