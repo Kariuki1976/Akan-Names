@@ -27,3 +27,8 @@
 .container h2 {
     font-size: 40px;
 }
+
+.finish {
+    display: flex;
+    justify-content: space-between;
+}
