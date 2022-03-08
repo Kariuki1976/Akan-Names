@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    height: auto;
 }
 
 #nav {
@@ -15,7 +16,7 @@
 
 .description {
     background-color: antiquewhite;
-    height: 800px;
+    height: 830px;
 }
 
 .akan {
@@ -36,6 +37,8 @@
     display: flex;
     justify-content: space-between;
     background-color: black;
+    /* border: 1px solid red; */
+    height: 80px;
 }
 
 #text {
@@ -48,5 +51,9 @@
 }
 
 #copyrights {
+    color: gold;
+}
+
+#top {
     color: gold;
 }

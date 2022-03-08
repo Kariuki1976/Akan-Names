@@ -24,11 +24,11 @@ function submitForm(e) {
 
 
     if (slim.checked == true) {
-        nameManu.innerText = "your name   is : " + (male[finalManu])
+        nameManu.innerText = "your name   is : " + (male[finalManu]);
 
 
     } else if (slimm.checked == true) {
-        nameManu.innerText = "your name   is : " + (female[finalManu])
+        nameManu.innerText = "your name   is : " + (female[finalManu]);
 
 
     }
