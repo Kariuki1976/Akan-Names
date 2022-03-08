@@ -30,7 +30,7 @@ This is a webpage that describes about me ,my education,skills,and languages tha
 ---
 ### **Live link**
 
-[Live Link]()
+[Live Link](https://kariuki1976.github.io/Akan-Names/)
 ---
 
 #### **Get Started**
@@ -52,6 +52,7 @@ Html for structure.
 
 Css for styling.
 ---
+
 
 ### **License**
 
