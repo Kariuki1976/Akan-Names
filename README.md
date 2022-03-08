@@ -1,4 +1,4 @@
-# **LANDING-PAGE-PORTFOLIO**
+# **Akan-Names**
 
 By Emmanuel Kariuki
 ---
@@ -22,7 +22,7 @@ By Emmanuel Kariuki
 ---
 ## **Description**
 
-This is a webpage that describes about me ,my education,skills,and languages that I am best at.
+This is a webpage that generates a unique Akan name from the Ghana community depending on the different day of the week.
 ---
 
 <!-- ### **Preview**
@@ -51,9 +51,23 @@ To get a local copy to your machine.
 Html for structure. 
 
 Css for styling.
+
+Javascript for interaction
 ---
 
+### **Behaviour Driven Development (BDD).**
+-Welcome landing page.
+Displays form for providing user date of birth and gender.
+INPUT: user picks date
+INPUT: user selects gender.
+OUTPUT: generates and displays an akan name corresponding to details provided.
 
+-Pick a DATE AND GENDER
+INPUT: no details provided, example: date and gender.
+OUTPUT: please pick a date and select a gender.
+-Resets form Input upon validation.
+INPUT: user clicks generate button.
+OUTPUT: resets form and display Akan name.
 ### **License**
 
 To get the license click here [License](/home/moringa/Documents/Moringa-prep/Akan-Names-Generator/license)
