@@ -55,7 +55,7 @@ Css for styling.
 Javascript for interaction
 ---
 
-### **Behaviour Driven Development (BDD).**
+### **Behavior Driven Development (BDD).**
 -Welcome landing page.
 Displays form for providing user date of birth and gender.
 INPUT: user picks date

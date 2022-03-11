@@ -30,7 +30,6 @@ function submitForm(e) {
     } else if (slimm.checked == true) {
         nameManu.innerText = "your name   is : " + (female[finalManu]);
 
-
     }
 
 }
