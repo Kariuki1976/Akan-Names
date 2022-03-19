@@ -23,6 +23,13 @@ function submitForm(e) {
     let finalManu = dateEm.getDay();
 
 
+    if (dateEm == "") {
+        alert("Enter your Date of Birth!");
+    } else if (slim.value == "") {
+        alert("Select your gender!");
+    }
+
+
     if (slim.checked == true) {
         nameManu.innerText = "your name   is : " + (male[finalManu]);
 
